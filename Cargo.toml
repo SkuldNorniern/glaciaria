@@ -1,0 +1,8 @@
+[package]
+name = "glaciaria"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+llama-cpp-2 = "0.1.82"
+tonic = "0.12.3"
